@@ -1,0 +1,2 @@
+# Lung_Model_Generator
+Research Project intended to generate a 3D model of the airways of human lung. The script utilizes a source file (in .csv format) that represents the lung airways in a tree format, with lengths, radii, origin, direction, and child branches. The script calculates the positioning of vertices for each branch, as well as its children, connects and meshes them together to form a single 3D model, using the Python VTK library.
